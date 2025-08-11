@@ -1,0 +1,27 @@
+car_oop_mastery/
+│
+├── main.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── core/
+│   ├── interfaces.py
+│   ├── engine.py
+│   ├── vehicle.py
+│   └── bike.py
+│
+├── gui/
+│   └── app.py
+│
+├── utils/
+│   └── persistence.py
+│
+├── tests/
+│   └── test_car.py
+│
+├── logs/
+│   └── logs.txt
+│
+└── data/
+    └── garage.pkl
